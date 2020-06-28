@@ -1,5 +1,5 @@
 # ProtocoloDigital
-Desenvolvimento de um sistema de gestão interna, chamado Protocolo Digital para uma empresa fictícia, para atender os requisitos de um Trabalho de Conclusão de Curso para a Faculdade
+Desenvolvimento de um sistema de gestão interna, chamado Protocolo Digital para uma empresa fictícia, cujo o objetivo é atender aos requisitos de um Trabalho de Conclusão de Curso para a Faculdade
 
 > Status do Projeto: Em desenvolvimento :warning:
 
@@ -27,4 +27,4 @@ Desenvolvimento de um sistema de gestão interna, chamado Protocolo Digital para
 >- O Protocolo Digital: É um sistema para fornecer todas as ferramentas necessárias para iniciar um processo, solicitação ou requerimento
 >- QUE: Por meio do sistema, o usuário poderá solicitar a aquisição de insumos e a contratação de serviços de pessoa física e pessoa jurídica, solicitar serviços internos como manutenção e Help-Desk, solicitar diárias, ajuda de custo, adiantamento, fundo fixo e hospedagem, enviar notas fiscais para pagamento e emitir relatórios, consultar todos os processos, receber notificações via e-mail institucional referente as tarefas e atualizações do sistema.
 >- DIFERENTE DE: Encaminhar os processos de forma manual/física com apenas o registro do livro de protocolo e sem acompanhamento.
->- NOSSO PRODUTO	É: Fácil de usar e multiplataformas, ou seja, pode ser usado de qualquer dispositivo.
+>- NOSSO PRODUTO	É: Intuitivo, otimizado, reponsivo, ou seja, pode ser usado de qualquer dispositivo de forma rápida e fácil, idependente do tipo de usuário.

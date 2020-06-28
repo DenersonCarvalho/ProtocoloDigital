@@ -16,14 +16,10 @@ Desenvolvimento de um sistema de gestão interna, chamado Protocolo Digital para
 >- Exportação de dados que não seja para a base de dados do sistema;
 
 >### Levantamento do Problema
->- O PROBLEMA:
->  - Hoje, a empresa recebe muitos processos de forma manual/físico ocasionado no alto consumo de papel e na demora na análise dos processos, perca de documentos, falta de espaço físico para armazenar os processos concluídos e falta de acompanhamento da Alta gestão nos processos em andamento, pelo fato de ser processo físico.
->- AFETA:
->  - Colaboradores, Gestores, Diretores, Ordenadores de Despesas
->- CUJO IMPACTO É:
->  - Consumo de papel e tintas de impressoras bastante elevado; Falta de Feedback durante o andamento dos processos, Dificuldade no acompanhamento do fluxo de aprovação do processo, falta de espaço físico para arquivar os processos físicos;
->- BENEFÍCIOS DE UMA SOLUÇÃO SERIAM:
->  - Desenvolver uma plataforma web para que todos os procedimentos internos que demandam tempo sejam automatizados, otimizando o tempo de elaboração dos mesmos e fornecendo ao colaborador e a alta gestão todas as ferramentas necessárias para acompanhar e decidir sobre o mesmo.
+>- O PROBLEMA: Hoje, a empresa recebe muitos processos de forma manual/físico ocasionado no alto consumo de papel e na demora na análise dos processos, perca de documentos, falta de espaço físico para armazenar os processos concluídos e falta de acompanhamento da Alta gestão nos processos em andamento, pelo fato de ser processo físico.
+>- AFETA: Colaboradores, Gestores, Diretores, Ordenadores de Despesas
+>- CUJO IMPACTO É: Consumo de papel e tintas de impressoras bastante elevado; Falta de Feedback durante o andamento dos processos, Dificuldade no acompanhamento do fluxo de aprovação do processo, falta de espaço físico para arquivar os processos físicos;
+>- BENEFÍCIOS DE UMA SOLUÇÃO SERIAM: Desenvolver uma plataforma web para que todos os procedimentos internos que demandam tempo sejam automatizados, otimizando o tempo de elaboração dos mesmos e fornecendo ao colaborador e a alta gestão todas as ferramentas necessárias para acompanhar e decidir sobre o mesmo.
 
 >### Descrição do Produto
 >- PARA: Diretores, Ordenadores de Despesas, Gestores, Colaboradores

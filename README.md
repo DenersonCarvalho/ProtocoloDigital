@@ -3,8 +3,8 @@ Desenvolvimento de um sistema de gestão interna, chamado Protocolo Digital para
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-### Objetivo
-Protocolo Digital é um sistema web com o objetivo de auxiliar e facilitar o acompanhamento dos processos pela alta gestão da empresa do cliente, facilitar a comunicação acerca dos processos em andamento, agilizar as correções quando forem necessárias e dar mais fluidez em todas as etapas da construção do processo.
+>### Objetivo
+>Protocolo Digital é um sistema web com o objetivo de auxiliar e facilitar o acompanhamento dos processos pela alta gestão da empresa do cliente, facilitar a comunicação acerca dos processos em andamento, agilizar as correções quando forem necessárias e dar mais fluidez em todas as etapas da construção do processo.
 
 ### Escopo
 O sistema Protocolo Digital permite ao colaborador solicitar a aquisição de insumos e a contratação de serviços de pessoa física e pessoa jurídica, solicitar serviços internos como manutenção e Help-Desk, solicitar diárias, ajuda de custo, adiantamento, fundo fixo e hospedagem, enviar notas fiscais para pagamento e emitir relatórios, consultar todos os processos, receber notificações via e-mail institucional referente as tarefas e atualizações do sistema.
